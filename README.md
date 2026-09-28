@@ -6,7 +6,7 @@
 
 **IoT + AI-assisted remote health monitoring with explainable risk scoring, real-time alerts, and a live dashboard.**
 
-<br />
+<br/>
 
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-16A34A?style=for-the-badge)
 ![Frontend](https://img.shields.io/badge/FRONTEND-REACT%20%2B%20VITE-7C3AED?style=for-the-badge&logo=react&logoColor=white)
